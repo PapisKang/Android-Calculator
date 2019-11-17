@@ -146,6 +146,7 @@ public class TD1FULL extends AppCompatActivity {
 
                 textV = textV +"(";
                 operande.setText(textV);
+                calcul();
             }
         });
 
@@ -155,6 +156,7 @@ public class TD1FULL extends AppCompatActivity {
 
                 textV = textV +")";
                 operande.setText(textV);
+                calcul();
             }
         });
 
@@ -164,6 +166,7 @@ public class TD1FULL extends AppCompatActivity {
 
                 textV = textV +".";
                 operande.setText(textV);
+                calcul();
             }
         });
         Button ce = (Button) findViewById(R.id.CE);
