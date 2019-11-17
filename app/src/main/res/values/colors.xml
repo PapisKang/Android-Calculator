@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E12929</color>
+    <color name="colorPrimaryDark">#E12929</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colortext">#FFFFFF</color>
+    <color name="numb1">@android:color/white</color>
+    <color name="ops1">@android:color/holo_blue_light</color>
+    <color name="other1">@android:color/holo_blue_light</color>
+
+    <color name="numb">#E12929</color>
+    <color name="ops">#E12929</color>
+    <color name="other">#E12929</color>
+
+
+</resources>
